@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "15.0.6",
+    "com.unity.visualeffectgraph": "15.0.6",
+    "jp.keijiro.klak.motion": "1.1.0",
+    "jp.keijiro.metatex": "1.0.4",
+    "jp.keijiro.vfxgraphassets": "1.2.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
