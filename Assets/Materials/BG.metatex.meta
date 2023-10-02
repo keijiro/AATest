@@ -11,8 +11,8 @@ ScriptedImporter:
   _dimensions: {x: 512, y: 512}
   _generator: 6
   _colormap: 0
-  _color: {r: 0, g: 0, b: 0, a: 1}
-  _color2: {r: 1, g: 0, b: 0, a: 1}
+  _color: {r: 0.3679245, g: 0.3679245, b: 0.3679245, a: 1}
+  _color2: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 1}
   _gradient:
     serializedVersion: 2
     key0: {r: 1, g: 1, b: 1, a: 1}
