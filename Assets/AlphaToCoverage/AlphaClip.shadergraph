@@ -297,8 +297,8 @@
     "m_ShaderOutputName": "Offset",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": -1.0,
-        "y": -1.0
+        "x": -1.100000023841858,
+        "y": -1.100000023841858
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -569,8 +569,8 @@
     "m_ShaderOutputName": "Tiling",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 2.0,
-        "y": 2.0
+        "x": 2.200000047683716,
+        "y": 2.200000047683716
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -801,7 +801,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "AlphaClipThreshold",
     "m_StageCapability": 2,
-    "m_Value": 0.10000000149011612,
+    "m_Value": 0.0,
     "m_DefaultValue": 0.5,
     "m_Labels": []
 }
