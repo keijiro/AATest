@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "com.unity.recorder": "4.0.1",
-    "com.unity.render-pipelines.universal": "15.0.6",
-    "com.unity.visualeffectgraph": "15.0.6",
+    "com.unity.render-pipelines.universal": "15.0.7",
+    "com.unity.visualeffectgraph": "15.0.7",
     "jp.keijiro.klak.motion": "1.1.0",
     "jp.keijiro.metatex": "1.0.4",
     "jp.keijiro.vfxgraphassets": "1.2.0"
